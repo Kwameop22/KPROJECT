@@ -1,2 +1,2 @@
-# KPROJECT
+# GeniusProject
 A temperature calculator
