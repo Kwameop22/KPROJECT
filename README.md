@@ -1,2 +1,2 @@
-KPROJECT
-This is meant for storing my temperature calculator project
+#TEMPERATURE CALC
+This is meant for converting between degree Celsius, Fahrenheit and Kelvin
