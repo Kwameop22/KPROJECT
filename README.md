@@ -1,2 +1,2 @@
-# GeniusProject
-A temperature calculator
+KPROJECT
+This is meant for storing my temperature calculator project
